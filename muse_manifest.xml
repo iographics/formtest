@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="96studios.customer@Gmail.com" resolutions="1x" timestamp="1696609164680">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="147521559" ref="index"/>
+    <file name="nomq_index.css" crc="4064345364" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="form-u1140.php" crc="4155889334" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u494-7.png" crc="3911665275" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u494-72.png" crc="314864683" ref="index"/>
+    <file name="u494-73.png" crc="314864683" ref="index"/>
+    <file name="u1143-fs.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss.png" crc="3823876379" ref="index"/>
+    <file name="u1142.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r.png" crc="242275877" ref="index"/>
+    <file name="u1142-m.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs.png" crc="3903727523" ref="index"/>
+    <file name="u1143-fs2.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse2.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss2.png" crc="3823876379" ref="index"/>
+    <file name="u11422.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r2.png" crc="242275877" ref="index"/>
+    <file name="u1142-m2.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs2.png" crc="3903727523" ref="index"/>
+    <file name="u1143-fs3.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse3.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss3.png" crc="3823876379" ref="index"/>
+    <file name="u11423.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r3.png" crc="242275877" ref="index"/>
+    <file name="u1142-m3.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs3.png" crc="3903727523" ref="index"/>
+    <file name="u494-74.png" crc="314864683" ref="index"/>
+    <file name="u1143-fs4.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse4.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss4.png" crc="3823876379" ref="index"/>
+    <file name="u11424.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r4.png" crc="242275877" ref="index"/>
+    <file name="u1142-m4.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs4.png" crc="3903727523" ref="index"/>
+    <file name="u494-75.png" crc="314864683" ref="index"/>
+    <file name="u1143-fs5.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse5.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss5.png" crc="3823876379" ref="index"/>
+    <file name="u11425.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r5.png" crc="242275877" ref="index"/>
+    <file name="u1142-m5.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs5.png" crc="3903727523" ref="index"/>
+    <file name="u494-76.png" crc="360149324" ref="index"/>
+    <file name="u1143-fs6.png" crc="193847183" ref="index"/>
+    <file name="u1141-fse6.png" crc="3781981436" ref="index"/>
+    <file name="u1144-fss6.png" crc="3823876379" ref="index"/>
+    <file name="u11426.png" crc="3875776584" ref="index"/>
+    <file name="u1142-r6.png" crc="242275877" ref="index"/>
+    <file name="u1142-m6.png" crc="263300235" ref="index"/>
+    <file name="u1142-fs6.png" crc="3903727523" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4176086340" seo="true" mt="1696609137058" redirect="true"/>
+</manifest>
